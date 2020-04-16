@@ -6,3 +6,4 @@
 ## Pycharm Download.
     https://www.jetbrains.com/pycharm/download/#section=windows
 
+## Basic Python:
