@@ -34,5 +34,9 @@
         Otherwise its tough to survive 
         in the society.
         """
-    
+   ### How to convert the integer to float type:
+         age=20;
+         new_age=float(age)
+         print(new_age)
+         Answer:20.0
   
