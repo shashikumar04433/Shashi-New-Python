@@ -20,5 +20,10 @@
        Name="Shashikumar reddy"
        print(name[0:7]);
        Answer:Shashi
+    ### To find the length of an String in rev (only single word) :
+         Name="Shashikumar reddy"
+         print(name[-4]);
+         Answer:e
+    
     
   
