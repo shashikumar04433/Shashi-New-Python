@@ -8,8 +8,7 @@
 
 ## Basic Concepts of Python:
 ### Data types in python:
- * Integer
-   eg: a=20;
+ * Integer:
             
        operation on integers:
         a=20;
