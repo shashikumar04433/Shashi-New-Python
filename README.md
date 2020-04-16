@@ -16,6 +16,9 @@
         c=a+b;
         print(c);
        answer=50..
-      
+   ### To find the length of an String:
+       Name="Shashikumar reddy"
+       print(name[0:7]);
+       Answer:Shashi
     
   
