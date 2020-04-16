@@ -24,6 +24,14 @@
          Name="Shashikumar reddy"
          print(name[-4]);
          Answer:e
-    
+   ### How to comment in single line:
+      #Shashi is too lazy.
+      #Anand works hard.
+   ### How to comment in multiline:
+        """
+        Work hard for better process.
+        Otherwise its tough to survive 
+        in the society.
+        """
     
   
