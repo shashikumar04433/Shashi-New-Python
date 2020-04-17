@@ -55,6 +55,22 @@
         middle=f' {first} {last} is a coder';
         print(middle)
         Answer:shashikumar is a coder
+     
+   ### If you want to write in UPPER case of a given String :
+   eg:
+             
+         shashi="Python for Beginers";
+         print(shashi.upper());
+         Answer:PYTHON FOR BEGINERS.
+       
+   ### If you want to write in UPPER case of a given String :
+         shashi="Python for Beginers";
+         print(shashi.lower());
+         Answer:python for beginers
+         
+         
         
+      
+   
         
    
