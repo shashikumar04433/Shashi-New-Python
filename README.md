@@ -93,6 +93,23 @@
        Answer:False//because where  's' in small letter in 
        shashi where as original it has Shashi so the answer is false.
       
+   ### Operators:
+   #### Arthimetic Operations:
+        
+  * rules:
+  
+        1. parenthesis.
+        2. exponential.eg:2**3///ans =8
+        3. multiplication or division .
+        4. addition or subtraction.
+   
+        a=2+5;
+        print(a);
+        Answer:7
+        
+        
+        
+        
    
         
    
