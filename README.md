@@ -86,10 +86,12 @@
        Answer:True.
        
    eg2:
+   
        shashi=" Shashi want to work hard in one field."
        print(shashi.replace('in one field', 'in many fields'))
        print('shashi want to work' in shashi)
-       Answer:False//because where  's' in small letter in shashi where as original it has Shashi so the answer is false.
+       Answer:False//because where  's' in small letter in 
+       shashi where as original it has Shashi so the answer is false.
       
    
         
