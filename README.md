@@ -63,11 +63,20 @@
          print(shashi.upper());
          Answer:PYTHON FOR BEGINERS.
        
-   ### If you want to write in UPPER case of a given String :
+   ###  write in UPPER case of a given String :
          shashi="Python for Beginers";
          print(shashi.lower());
          Answer:python for beginers
          
+   ### To find the length of a String:
+        shashi="Python Developers has a Great Demand";
+        print(len(shashi));
+        Answer:36
+   ### To Replace the String or  a words in it:
+       shashi=("Python for web designing");
+       print(shashi.replace("web designing","Machine Learning it has a great score until 2 decades");
+       Answer:Python for Machine Learning it has a great score until 2 decades.
+   
          
         
       
