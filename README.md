@@ -75,7 +75,7 @@
    ### To Replace the String or  a words in it:
        shashi=("Python for web designing");
        print(shashi.replace("web designing","Machine Learning it has a great score until 2 decades");
-       Answer:Python for Machine Learning it has a great score until 2 decades.
+       Answer:Python for Machine Learning it has a great scope until 2 decades.
    
          
         
