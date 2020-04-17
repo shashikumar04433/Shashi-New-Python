@@ -39,4 +39,22 @@
          new_age=float(age)
          print(new_age)
          Answer:20.0
-  ### 
+         
+  ### To cancatinate a string:
+  eg:1
+  
+     first='shashi';
+     last='kumar';
+     middle=first+last;
+     print(middle)
+     Answer:shashikumar
+   eg:2:
+   
+        first='shashi';
+        last='kumar';
+        middle=f' {first} {last} is a coder';
+        print(middle)
+        Answer:shashikumar is a coder
+        
+        
+   
