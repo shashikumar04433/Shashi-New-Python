@@ -77,8 +77,19 @@
        print(shashi.replace("web designing","Machine Learning it has a great score until 2 decades");
        Answer:Python for Machine Learning it has a great scope until 2 decades.
    
-         
-        
+   ### To find whether String is 'True' or 'False'.
+   eg1:
+   
+       shashi=" Shashi want to work hard in one field."
+       print(shashi.replace('in one field', 'in many fields'))
+       print('Shashi want to work' in shashi)
+       Answer:True.
+       
+   eg2:
+       shashi=" Shashi want to work hard in one field."
+       print(shashi.replace('in one field', 'in many fields'))
+       print('shashi want to work' in shashi)
+       Answer:False//because where  's' in small letter in shashi where as original it has Shashi so the answer is false.
       
    
         
