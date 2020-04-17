@@ -102,10 +102,15 @@
         2. exponential.eg:2**3///ans =8
         3. multiplication or division .
         4. addition or subtraction.
+   eg1:
    
         a=2+5;
         print(a);
         Answer:7
+   eg2:
+        a=((4+5)+20*9);
+        print(a);
+        answer:189
         
         
         
