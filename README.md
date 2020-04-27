@@ -119,12 +119,12 @@
         Answer:409
   
   ### Assignment Operator: 
- Assignment operator is used to a assigning the value to the variable.
+        Assignment operator is used to a assigning the value to the variable.
  
-   eg:
-        x=3;
-        x=x+3; or x+=3 are both same.
-        answer:6
+    eg:
+         x=3;
+         x=x+3; or x+=3 are both same.
+         answer:6
       
    ### C
         
