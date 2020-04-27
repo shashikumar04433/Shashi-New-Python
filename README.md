@@ -161,6 +161,20 @@
 ###  Identity Operators:
         Identitity Opertors are use to compare the two objects,
         not if they are equal,actully they are same object with the same memory location.
+          Two types they are:
+          1.is
+          2.is not
+        
+          x = ["apple", "banana"]
+          y = ["apple", "banana"]
+          z = x
+          print(x is z)
+          returns True because z is the same object as x
+          print(x is y)
+          return False because x is not the same object as y, even if they have the same content
+          print(x==y) 
+          return True because this is comparison returns True because x is equal to y.
+
         
         
         
