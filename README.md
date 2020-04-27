@@ -158,9 +158,13 @@
             print(not(x > 3 and x < 10))
             ans:False;
             
-            
-            
-         
+###  Identity Operators:
+        Identitity Opertors are use to compare the two objects,
+        not if they are equal,actully they are same object with the same memory location.
+        
+        
+        
+          
             
 
         
