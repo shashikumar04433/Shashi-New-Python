@@ -126,7 +126,44 @@
          x=x+3; or x+=3 are both same.
          answer:6
       
-   ### C
+   ### Comparision Operator:
+        This operator compares two or many values and reply that true or false.
+        
+       eg1:
+            x = 5
+            y = 3
+            print(x == y)
+            Answer:False.
+        eg:2
+            x = 5
+            y = 3
+            print(x != y)
+            Answer:True.
+   ### Logical operators:
+        Logical Operators used to combine two or many conditional statements:
+        There are basic logical operators they are:
+           1.AND (here both conditions should be true otherwise ans will be false)
+           2.OR  (here any one condition should be true)
+           3.NOT ( Reverse the result, returns False if the result is true )
+        AND eg1:
+           x = 5
+           print(x > 3 and x < 10)
+            
+        OR eg1:
+           x=5
+           x < 5 or x < 4
+           
+         NOT eg1:
+            x = 5
+            print(not(x > 3 and x < 10))
+            ans:False;
+            
+            
+            
+         
+            
+
+        
         
        
        
